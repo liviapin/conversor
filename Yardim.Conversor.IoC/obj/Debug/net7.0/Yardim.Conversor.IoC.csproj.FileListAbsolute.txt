@@ -1,0 +1,11 @@
+C:\Users\livia\OneDrive\Documentos\Yardim\Conversor\Yardim.Conversor.IoC\bin\Debug\net7.0\Yardim.Conversor.IoC.deps.json
+C:\Users\livia\OneDrive\Documentos\Yardim\Conversor\Yardim.Conversor.IoC\bin\Debug\net7.0\Yardim.Conversor.IoC.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Conversor\Yardim.Conversor.IoC\bin\Debug\net7.0\Yardim.Conversor.IoC.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Conversor\Yardim.Conversor.IoC\obj\Debug\net7.0\Yardim.Conversor.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livia\OneDrive\Documentos\Yardim\Conversor\Yardim.Conversor.IoC\obj\Debug\net7.0\Yardim.Conversor.IoC.AssemblyInfoInputs.cache
+C:\Users\livia\OneDrive\Documentos\Yardim\Conversor\Yardim.Conversor.IoC\obj\Debug\net7.0\Yardim.Conversor.IoC.AssemblyInfo.cs
+C:\Users\livia\OneDrive\Documentos\Yardim\Conversor\Yardim.Conversor.IoC\obj\Debug\net7.0\Yardim.Conversor.IoC.csproj.CoreCompileInputs.cache
+C:\Users\livia\OneDrive\Documentos\Yardim\Conversor\Yardim.Conversor.IoC\obj\Debug\net7.0\Yardim.Conversor.IoC.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Conversor\Yardim.Conversor.IoC\obj\Debug\net7.0\refint\Yardim.Conversor.IoC.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Conversor\Yardim.Conversor.IoC\obj\Debug\net7.0\Yardim.Conversor.IoC.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Conversor\Yardim.Conversor.IoC\obj\Debug\net7.0\ref\Yardim.Conversor.IoC.dll

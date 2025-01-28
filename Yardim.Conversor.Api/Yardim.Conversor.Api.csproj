@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Yardim.Conversor.Aplicacao\Yardim.Conversor.Aplicacao.csproj" />
+		<ProjectReference Include="..\Yardim.Conversor.IoC\Yardim.Conversor.IoC.csproj" />
+	</ItemGroup>
+
+</Project>

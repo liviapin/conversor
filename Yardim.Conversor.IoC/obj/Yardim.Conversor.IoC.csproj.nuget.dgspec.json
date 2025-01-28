@@ -1,0 +1,329 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.IoC\\Yardim.Conversor.IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Aplicacao\\Yardim.Conversor.Aplicacao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Aplicacao\\Yardim.Conversor.Aplicacao.csproj",
+        "projectName": "Yardim.Conversor.Aplicacao",
+        "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Aplicacao\\Yardim.Conversor.Aplicacao.csproj",
+        "packagesPath": "C:\\Users\\livia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Aplicacao\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\livia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.DataTransfer\\Yardim.Conversor.DataTransfer.csproj": {
+                "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.DataTransfer\\Yardim.Conversor.DataTransfer.csproj"
+              },
+              "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj": {
+                "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.DataTransfer\\Yardim.Conversor.DataTransfer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.DataTransfer\\Yardim.Conversor.DataTransfer.csproj",
+        "projectName": "Yardim.Conversor.DataTransfer",
+        "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.DataTransfer\\Yardim.Conversor.DataTransfer.csproj",
+        "packagesPath": "C:\\Users\\livia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.DataTransfer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\livia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj",
+        "projectName": "Yardim.Conversor.Dominio",
+        "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj",
+        "packagesPath": "C:\\Users\\livia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\livia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Infra\\Yardim.Conversor.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Infra\\Yardim.Conversor.Infra.csproj",
+        "projectName": "Yardim.Conversor.Infra",
+        "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Infra\\Yardim.Conversor.Infra.csproj",
+        "packagesPath": "C:\\Users\\livia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\livia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj": {
+                "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.IoC\\Yardim.Conversor.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.IoC\\Yardim.Conversor.IoC.csproj",
+        "projectName": "Yardim.Conversor.IoC",
+        "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.IoC\\Yardim.Conversor.IoC.csproj",
+        "packagesPath": "C:\\Users\\livia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\livia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Aplicacao\\Yardim.Conversor.Aplicacao.csproj": {
+                "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Aplicacao\\Yardim.Conversor.Aplicacao.csproj"
+              },
+              "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj": {
+                "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj"
+              },
+              "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Infra\\Yardim.Conversor.Infra.csproj": {
+                "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Infra\\Yardim.Conversor.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
