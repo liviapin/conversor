@@ -13,9 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yardim.Conversor.Infra", "Y
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yardim.Conversor.IoC", "Yardim.Conversor.IoC\Yardim.Conversor.IoC.csproj", "{8662FDAC-5BC3-4BB3-A54B-4B177D7508DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversor.Dominio", "Conversor.Dominio\Conversor.Dominio.csproj", "{377938B8-710B-49C7-AAC8-4FFD9B2A45E3}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yardim.Conversor.Dominio", "Yardim.Conversor.Dominio\Yardim.Conversor.Dominio.csproj", "{572103E4-6597-43E3-8247-5873F60C9B39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yardim.Conversor.Dominio", "Yardim.Conversor.Dominio\Yardim.Conversor.Dominio.csproj", "{572103E4-6597-43E3-8247-5873F60C9B39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,10 +41,6 @@ Global
 		{8662FDAC-5BC3-4BB3-A54B-4B177D7508DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8662FDAC-5BC3-4BB3-A54B-4B177D7508DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8662FDAC-5BC3-4BB3-A54B-4B177D7508DD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{377938B8-710B-49C7-AAC8-4FFD9B2A45E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{377938B8-710B-49C7-AAC8-4FFD9B2A45E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{377938B8-710B-49C7-AAC8-4FFD9B2A45E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{377938B8-710B-49C7-AAC8-4FFD9B2A45E3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{572103E4-6597-43E3-8247-5873F60C9B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{572103E4-6597-43E3-8247-5873F60C9B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{572103E4-6597-43E3-8247-5873F60C9B39}.Release|Any CPU.ActiveCfg = Release|Any CPU

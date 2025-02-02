@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yOrphXKpuSA44ilkjC5MHF+d1EnDNLMeUeZED+rYOw+EC7PBJu+qQzBxgktF28dCNejQAqn7oaHUZGTIcZAvSg==",
+  "dgSpecHash": "96U+TQ5AIaTv1Hke/FE8/8lcgIirPCz6lQUsc8oG8kSFpkTjkZ86XGPgykS23fr/J2eJBwpzhYaVCpvAj9pI8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.IoC\\Yardim.Conversor.IoC.csproj",
+  "projectFilePath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Yardim.Conversor.IoC\\Yardim.Conversor.IoC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

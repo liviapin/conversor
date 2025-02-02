@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
 		<TargetFramework>net7.0</TargetFramework>
@@ -6,6 +6,7 @@
 
 	<ItemGroup>
 		<ProjectReference Include="..\Yardim.Conversor.Dominio\Yardim.Conversor.Dominio.csproj" />
+		<ProjectReference Include="..\Yardim.Conversor.DataTransfer\Yardim.Conversor.DataTransfer.csproj" />
 	</ItemGroup>
 
 </Project>

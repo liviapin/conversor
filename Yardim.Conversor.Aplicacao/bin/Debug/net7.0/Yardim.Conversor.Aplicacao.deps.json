@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Yardim.Conversor.Aplicacao/1.0.0": {
+        "dependencies": {
+          "Yardim.Conversor.DataTransfer": "1.0.0",
+          "Yardim.Conversor.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Yardim.Conversor.Aplicacao.dll": {}
+        }
+      },
+      "Yardim.Conversor.DataTransfer/1.0.0": {
+        "dependencies": {
+          "Yardim.Conversor.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Yardim.Conversor.DataTransfer.dll": {}
+        }
+      },
+      "Yardim.Conversor.Dominio/1.0.0": {
+        "runtime": {
+          "Yardim.Conversor.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yardim.Conversor.Aplicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Yardim.Conversor.DataTransfer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Yardim.Conversor.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

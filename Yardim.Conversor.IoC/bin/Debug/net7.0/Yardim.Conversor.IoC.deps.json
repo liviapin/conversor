@@ -7,14 +7,70 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "Yardim.Conversor.IoC/1.0.0": {
+        "dependencies": {
+          "Yardim.Conversor.Aplicacao": "1.0.0",
+          "Yardim.Conversor.Dominio": "1.0.0",
+          "Yardim.Conversor.Infra": "1.0.0"
+        },
         "runtime": {
           "Yardim.Conversor.IoC.dll": {}
+        }
+      },
+      "Yardim.Conversor.Aplicacao/1.0.0": {
+        "dependencies": {
+          "Yardim.Conversor.DataTransfer": "1.0.0",
+          "Yardim.Conversor.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Yardim.Conversor.Aplicacao.dll": {}
+        }
+      },
+      "Yardim.Conversor.DataTransfer/1.0.0": {
+        "dependencies": {
+          "Yardim.Conversor.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Yardim.Conversor.DataTransfer.dll": {}
+        }
+      },
+      "Yardim.Conversor.Dominio/1.0.0": {
+        "runtime": {
+          "Yardim.Conversor.Dominio.dll": {}
+        }
+      },
+      "Yardim.Conversor.Infra/1.0.0": {
+        "dependencies": {
+          "Yardim.Conversor.DataTransfer": "1.0.0",
+          "Yardim.Conversor.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Yardim.Conversor.Infra.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Yardim.Conversor.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Yardim.Conversor.Aplicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Yardim.Conversor.DataTransfer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Yardim.Conversor.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Yardim.Conversor.Infra/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

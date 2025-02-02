@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N6Hoi5UYscZcF+CG0pqNeKGNAOyim6tPrFnjGSMP89swWbtJi8K76fAQ2osPb4imVQJjspKhlRsyLBqPFjpeVw==",
+  "dgSpecHash": "Fgc7zPV+vdsx5GEKxyrzA7/JQug4AOpEuWknP8sfS23bormvDr3zGxA2qWtbxBrEt09TvaTHc/z67aIHYZ8C5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

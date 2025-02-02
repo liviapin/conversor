@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj": {}
+    "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj": {
+    "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj",
         "projectName": "Yardim.Conversor.Dominio",
-        "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj",
+        "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj",
         "packagesPath": "C:\\Users\\livia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Yardim.Conversor.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

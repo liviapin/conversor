@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net7.0": {
+      "Yardim.Conversor.DataTransfer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Yardim.Conversor.Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Yardim.Conversor.DataTransfer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Yardim.Conversor.DataTransfer.dll": {}
+        }
+      },
       "Yardim.Conversor.Dominio/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -15,6 +28,11 @@
     }
   },
   "libraries": {
+    "Yardim.Conversor.DataTransfer/1.0.0": {
+      "type": "project",
+      "path": "../Yardim.Conversor.DataTransfer/Yardim.Conversor.DataTransfer.csproj",
+      "msbuildProject": "../Yardim.Conversor.DataTransfer/Yardim.Conversor.DataTransfer.csproj"
+    },
     "Yardim.Conversor.Dominio/1.0.0": {
       "type": "project",
       "path": "../Yardim.Conversor.Dominio/Yardim.Conversor.Dominio.csproj",
@@ -23,6 +41,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Yardim.Conversor.DataTransfer >= 1.0.0",
       "Yardim.Conversor.Dominio >= 1.0.0"
     ]
   },
@@ -33,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Infra\\Yardim.Conversor.Infra.csproj",
+      "projectUniqueName": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Yardim.Conversor.Infra\\Yardim.Conversor.Infra.csproj",
       "projectName": "Yardim.Conversor.Infra",
-      "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Infra\\Yardim.Conversor.Infra.csproj",
+      "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Yardim.Conversor.Infra\\Yardim.Conversor.Infra.csproj",
       "packagesPath": "C:\\Users\\livia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Infra\\obj\\",
+      "outputPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Yardim.Conversor.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +78,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj": {
-              "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj"
+            "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Yardim.Conversor.DataTransfer\\Yardim.Conversor.DataTransfer.csproj": {
+              "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Yardim.Conversor.DataTransfer\\Yardim.Conversor.DataTransfer.csproj"
+            },
+            "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj": {
+              "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Yardim.Conversor.Dominio\\Yardim.Conversor.Dominio.csproj"
             }
           }
         }
