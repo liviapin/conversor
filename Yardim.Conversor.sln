@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yardim.Conversor.Api", "Yardim.Conversor.Api\Yardim.Conversor.Api.csproj", "{6F73EA6B-9971-4F21-9A91-288DC85D4CB6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6F06496C-0C3B-4623-AACA-FD1A258AAA53} = {6F06496C-0C3B-4623-AACA-FD1A258AAA53}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yardim.Conversor.Aplicacao", "Yardim.Conversor.Aplicacao\Yardim.Conversor.Aplicacao.csproj", "{6FAD7FC9-B4DA-459B-844A-EDD253B39BA5}"
 EndProject

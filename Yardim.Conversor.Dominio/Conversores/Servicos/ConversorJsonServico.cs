@@ -1,95 +1,115 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Text.Json;
 using Yardim.Conversor.Dominio.Conversores.Entidades;
 
 namespace Yardim.Conversor.Dominio.Conversores.Servicos
-{
-    public class ConversorJsonService
     {
-        public string ConverterJsonParaCsv(ConversorJson conversorJson)
+        public class ConversorJsonService
         {
-            try
+            public string ConverterJsonParaCsv(ConversorJson conversorJson)
             {
-                // Deserializa o JSON para um dicionário de chaves e valores
-                var dados = JsonSerializer.Deserialize<Dictionary<string, JsonElement>>(conversorJson.Json);
-                if (dados == null || !dados.Any())
+                try
+                {
+                    var jsonElement = JsonSerializer.Deserialize<JsonElement>(conversorJson.Json);
+
+                    if (jsonElement.ValueKind == JsonValueKind.Array)
+                    {
+                        var jsonArray = jsonElement.EnumerateArray()
+                                                   .Select(el => el.Deserialize<Dictionary<string, JsonElement>>())
+                                                   .ToList();
+
+                        return ConverterListaJsonParaCsv(jsonArray);
+                    }
+                    else if (jsonElement.ValueKind == JsonValueKind.Object)
+                    {
+                        var jsonObject = jsonElement.Deserialize<Dictionary<string, JsonElement>>();
+                        return ConverterListaJsonParaCsv(new List<Dictionary<string, JsonElement>> { jsonObject });
+                    }
+                    else
+                    {
+                        throw new InvalidOperationException("O JSON deve ser um objeto ou um array de objetos.");
+                    }
+                }
+                catch (JsonException ex)
+                {
+                    throw new Exception($"Erro ao deserializar JSON: {ex.Message}", ex);
+                }
+                catch (Exception ex)
+                {
+                    throw new Exception($"Erro ao converter JSON para CSV: {ex.Message}", ex);
+                }
+            }
+
+            private string ConverterListaJsonParaCsv(List<Dictionary<string, JsonElement>> jsonLista)
+            {
+                if (jsonLista == null || !jsonLista.Any())
                     throw new InvalidOperationException("JSON inválido ou sem dados.");
 
-                // Listas para armazenar cabeçalhos e valores
-                var cabecalhos = new List<string>();
-                var valores = new List<List<string>>(); // Cada linha de valores será uma lista dentro dessa lista
+                var cabecalhos = new HashSet<string>();
+                var linhas = new List<Dictionary<string, string>>();
 
-                // Flatten o JSON para adicionar cabeçalhos e valores
-                FlattenJson(dados, "", cabecalhos, valores);
-
-                // Garantir que todas as linhas têm os mesmos cabeçalhos
-                var csv = string.Join(",", cabecalhos) + "\n";
-
-                // Para cada linha de valores, concatene e adicione ao CSV
-                foreach (var linha in valores)
+                foreach (var obj in jsonLista)
                 {
-                    csv += string.Join(",", linha) + "\n";
+                    var linha = new Dictionary<string, string>();
+                    FlattenJson(obj, "", linha);
+                    cabecalhos.UnionWith(linha.Keys);
+                    linhas.Add(linha);
                 }
 
-                return csv;
-            }
-            catch (JsonException ex)
-            {
-                throw new Exception($"Erro ao deserializar JSON: {ex.Message}", ex);
-            }
-            catch (Exception ex)
-            {
-                throw new Exception($"Erro ao converter JSON para CSV: {ex.Message}", ex);
-            }
-        }
-        //quando falamos em flattening de um objeto JSON, estamos pegando um objeto que pode ter níveis de aninhamento(objetos dentro de objetos,
-        //    arrays dentro de objetos, etc.) e transformando-o em um formato mais simples e acessível,
-        //    onde as chaves do objeto se tornam únicas e as informações estão em um único nível.
-        private void FlattenJson(Dictionary<string, JsonElement> dados, string prefix, List<string> cabecalhos, List<List<string>> valores)
-        {
-            // Inicializa uma lista para armazenar os valores dessa linha
-            var linhaValores = new List<string>();
-            foreach (var item in dados)
-            {
-                var chave = string.IsNullOrEmpty(prefix) ? item.Key : $"{prefix}.{item.Key}";
-                var valor = item.Value;
+                var csv = new StringBuilder();
+                csv.AppendLine(string.Join(",", cabecalhos));
 
-                if (valor.ValueKind == JsonValueKind.Object)
+                foreach (var linha in linhas)
                 {
-                    // Recursivamente flatten os objetos dentro do JSON
-                    FlattenJson(valor.EnumerateObject().ToDictionary(e => e.Name, e => e.Value), chave, cabecalhos, valores);
+                    var valores = cabecalhos.Select(c => linha.ContainsKey(c) ? linha[c] : "").ToList();
+                    csv.AppendLine(string.Join(",", valores));
                 }
-                else if (valor.ValueKind == JsonValueKind.Array)
+
+                return csv.ToString();
+            }
+
+            private void FlattenJson(Dictionary<string, JsonElement> dados, string prefixo, Dictionary<string, string> resultado)
+            {
+                foreach (var item in dados)
                 {
-                    int index = 0;
-                    foreach (var elemento in valor.EnumerateArray())
+                    var chave = string.IsNullOrEmpty(prefixo) ? item.Key : $"{prefixo}.{item.Key}";
+                    var valor = item.Value;
+
+                    switch (valor.ValueKind)
                     {
-                        // Para cada item do array, flatten o valor e adicione ao CSV
-                        FlattenJson(new Dictionary<string, JsonElement> { { $"{chave}[{index}]", elemento } }, "", cabecalhos, valores);
-                        index++;
+                        case JsonValueKind.Object:
+                            FlattenJson(valor.EnumerateObject().ToDictionary(e => e.Name, e => e.Value), chave, resultado);
+                            break;
+
+                        case JsonValueKind.Array:
+                            int index = 0;
+                            foreach (var elemento in valor.EnumerateArray())
+                            {
+                                FlattenJson(new Dictionary<string, JsonElement> { { $"{chave}[{index}]", elemento } }, "", resultado);
+                                index++;
+                            }
+                            break;
+
+                        case JsonValueKind.String:
+                        case JsonValueKind.Number:
+                        case JsonValueKind.True:
+                        case JsonValueKind.False:
+                            resultado[chave] = valor.ToString();
+                            break;
+
+                        case JsonValueKind.Null:
+                            resultado[chave] = "";
+                            break;
+
+                        default:
+                            resultado[chave] = valor.ToString();
+                            break;
                     }
                 }
-                else
-                {
-                    // Se a chave ainda não está nos cabeçalhos, adiciona ela
-                    if (!cabecalhos.Contains(chave))
-                    {
-                        cabecalhos.Add(chave);
-                    }
-
-                    // Adiciona o valor ao CSV
-                    linhaValores.Add(valor.ToString());
-                }
-            }
-
-
-            // Adiciona a linha de valores para as conversões que são feitas em cada nível de recursão
-            if (linhaValores.Count > 0)
-            {
-                valores.Add(linhaValores);
             }
         }
     }
-}
+

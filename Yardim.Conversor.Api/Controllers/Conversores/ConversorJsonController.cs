@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using Yardim.Conversor.Aplicacao.Conversores.Servicos;
 using Yardim.Conversor.DataTransfer.Conversores.Requests;
