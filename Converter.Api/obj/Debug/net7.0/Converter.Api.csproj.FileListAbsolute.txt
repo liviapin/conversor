@@ -1,0 +1,84 @@
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\Converter.Api.exe
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\Converter.Api.deps.json
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\Converter.Api.runtimeconfig.json
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\Converter.Api.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\Converter.Api.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\Converter.Aplicacao.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\Converter.DataTransfer.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\Converter.Dominio.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\Converter.Infra.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\Converter.IoC.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\Converter.Aplicacao.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\Converter.IoC.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\Converter.DataTransfer.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\Converter.Dominio.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\bin\Debug\net7.0\Converter.Infra.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\Converter.Api.csproj.AssemblyReference.cache
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\Converter.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\Converter.Api.AssemblyInfoInputs.cache
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\Converter.Api.AssemblyInfo.cs
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\Converter.Api.csproj.CoreCompileInputs.cache
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\Converter.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\Converter.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\staticwebassets\msbuild.Converter.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Converter.Api.props
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Converter.Api.props
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Converter.Api.props
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\scopedcss\bundle\Converter.Api.styles.css
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\Converter.Api.csproj.CopyComplete
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\Converter.Api.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\refint\Converter.Api.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\Converter.Api.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\Converter.Api.genruntimeconfig.cache
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Api\obj\Debug\net7.0\ref\Converter.Api.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\Converter.Api.exe
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\Converter.Api.deps.json
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\Converter.Api.runtimeconfig.json
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\Converter.Api.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\Converter.Api.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\Converter.Aplicacao.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\Converter.DataTransfer.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\Converter.Dominio.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\Converter.Infra.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\Converter.IoC.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\Converter.Aplicacao.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\Converter.IoC.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\Converter.DataTransfer.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\Converter.Dominio.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\bin\Debug\net7.0\Converter.Infra.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\Converter.Api.csproj.AssemblyReference.cache
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\Converter.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\Converter.Api.AssemblyInfoInputs.cache
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\Converter.Api.AssemblyInfo.cs
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\Converter.Api.csproj.CoreCompileInputs.cache
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\Converter.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\Converter.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\staticwebassets\msbuild.Converter.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Converter.Api.props
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Converter.Api.props
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Converter.Api.props
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\scopedcss\bundle\Converter.Api.styles.css
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\Converter.Api.csproj.CopyComplete
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\Converter.Api.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\refint\Converter.Api.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\Converter.Api.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\Converter.Api.genruntimeconfig.cache
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Api\obj\Debug\net7.0\ref\Converter.Api.dll

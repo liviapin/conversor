@@ -1,0 +1,30 @@
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.DataTransfer\bin\Debug\net7.0\Converter.DataTransfer.deps.json
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.DataTransfer\bin\Debug\net7.0\Converter.DataTransfer.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.DataTransfer\bin\Debug\net7.0\Converter.DataTransfer.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.DataTransfer\bin\Debug\net7.0\Converter.Dominio.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.DataTransfer\bin\Debug\net7.0\Converter.Dominio.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.DataTransfer\obj\Debug\net7.0\Converter.DataTransfer.csproj.AssemblyReference.cache
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.DataTransfer\obj\Debug\net7.0\Converter.DataTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.DataTransfer\obj\Debug\net7.0\Converter.DataTransfer.AssemblyInfoInputs.cache
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.DataTransfer\obj\Debug\net7.0\Converter.DataTransfer.AssemblyInfo.cs
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.DataTransfer\obj\Debug\net7.0\Converter.DataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.DataTransfer\obj\Debug\net7.0\Converter.DataTransfer.csproj.CopyComplete
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.DataTransfer\obj\Debug\net7.0\Converter.DataTransfer.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.DataTransfer\obj\Debug\net7.0\refint\Converter.DataTransfer.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.DataTransfer\obj\Debug\net7.0\Converter.DataTransfer.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.DataTransfer\obj\Debug\net7.0\ref\Converter.DataTransfer.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.DataTransfer\bin\Debug\net7.0\Converter.DataTransfer.deps.json
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.DataTransfer\bin\Debug\net7.0\Converter.DataTransfer.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.DataTransfer\bin\Debug\net7.0\Converter.DataTransfer.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.DataTransfer\bin\Debug\net7.0\Converter.Dominio.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.DataTransfer\bin\Debug\net7.0\Converter.Dominio.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.DataTransfer\obj\Debug\net7.0\Converter.DataTransfer.csproj.AssemblyReference.cache
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.DataTransfer\obj\Debug\net7.0\Converter.DataTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.DataTransfer\obj\Debug\net7.0\Converter.DataTransfer.AssemblyInfoInputs.cache
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.DataTransfer\obj\Debug\net7.0\Converter.DataTransfer.AssemblyInfo.cs
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.DataTransfer\obj\Debug\net7.0\Converter.DataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.DataTransfer\obj\Debug\net7.0\Converter.DataTransfer.csproj.CopyComplete
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.DataTransfer\obj\Debug\net7.0\Converter.DataTransfer.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.DataTransfer\obj\Debug\net7.0\refint\Converter.DataTransfer.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.DataTransfer\obj\Debug\net7.0\Converter.DataTransfer.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.DataTransfer\obj\Debug\net7.0\ref\Converter.DataTransfer.dll

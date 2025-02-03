@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Converter.Aplicacao\Converter.Aplicacao.csproj" />
+		<ProjectReference Include="..\Converter.Infra\Converter.Infra.csproj" />
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Converter.Dominio\Converter.Dominio.csproj" />
+		<ProjectReference Include="..\Converter.DataTransfer\Converter.DataTransfer.csproj" />
+	</ItemGroup>
+
+</Project>

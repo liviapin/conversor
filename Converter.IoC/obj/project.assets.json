@@ -1,0 +1,157 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Converter.Aplicacao/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Converter.DataTransfer": "1.0.0",
+          "Converter.Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Converter.Aplicacao.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Converter.Aplicacao.dll": {}
+        }
+      },
+      "Converter.DataTransfer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Converter.Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Converter.DataTransfer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Converter.DataTransfer.dll": {}
+        }
+      },
+      "Converter.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Converter.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Converter.Dominio.dll": {}
+        }
+      },
+      "Converter.Infra/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Converter.DataTransfer": "1.0.0",
+          "Converter.Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Converter.Infra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Converter.Infra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Converter.Aplicacao/1.0.0": {
+      "type": "project",
+      "path": "../Converter.Aplicacao/Converter.Aplicacao.csproj",
+      "msbuildProject": "../Converter.Aplicacao/Converter.Aplicacao.csproj"
+    },
+    "Converter.DataTransfer/1.0.0": {
+      "type": "project",
+      "path": "../Converter.DataTransfer/Converter.DataTransfer.csproj",
+      "msbuildProject": "../Converter.DataTransfer/Converter.DataTransfer.csproj"
+    },
+    "Converter.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Converter.Dominio/Converter.Dominio.csproj",
+      "msbuildProject": "../Converter.Dominio/Converter.Dominio.csproj"
+    },
+    "Converter.Infra/1.0.0": {
+      "type": "project",
+      "path": "../Converter.Infra/Converter.Infra.csproj",
+      "msbuildProject": "../Converter.Infra/Converter.Infra.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Converter.Aplicacao >= 1.0.0",
+      "Converter.Infra >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\livia\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Converter.IoC\\Converter.IoC.csproj",
+      "projectName": "Converter.IoC",
+      "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Converter.IoC\\Converter.IoC.csproj",
+      "packagesPath": "C:\\Users\\livia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Converter.IoC\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\livia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Converter.Aplicacao\\Converter.Aplicacao.csproj": {
+              "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Converter.Aplicacao\\Converter.Aplicacao.csproj"
+            },
+            "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Converter.Infra\\Converter.Infra.csproj": {
+              "projectPath": "C:\\Users\\livia\\OneDrive\\Documentos\\Yardim\\Backend\\Conversor\\Converter.Infra\\Converter.Infra.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

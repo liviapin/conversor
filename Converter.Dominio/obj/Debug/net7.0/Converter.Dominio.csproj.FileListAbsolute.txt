@@ -1,0 +1,22 @@
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Dominio\bin\Debug\net7.0\Converter.Dominio.deps.json
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Dominio\bin\Debug\net7.0\Converter.Dominio.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Dominio\bin\Debug\net7.0\Converter.Dominio.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Dominio\obj\Debug\net7.0\Converter.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Dominio\obj\Debug\net7.0\Converter.Dominio.AssemblyInfoInputs.cache
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Dominio\obj\Debug\net7.0\Converter.Dominio.AssemblyInfo.cs
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Dominio\obj\Debug\net7.0\Converter.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Dominio\obj\Debug\net7.0\Converter.Dominio.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Dominio\obj\Debug\net7.0\refint\Converter.Dominio.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Dominio\obj\Debug\net7.0\Converter.Dominio.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Dominio\obj\Debug\net7.0\ref\Converter.Dominio.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Dominio\bin\Debug\net7.0\Converter.Dominio.deps.json
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Dominio\bin\Debug\net7.0\Converter.Dominio.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Dominio\bin\Debug\net7.0\Converter.Dominio.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Dominio\obj\Debug\net7.0\Converter.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Dominio\obj\Debug\net7.0\Converter.Dominio.AssemblyInfoInputs.cache
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Dominio\obj\Debug\net7.0\Converter.Dominio.AssemblyInfo.cs
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Dominio\obj\Debug\net7.0\Converter.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Dominio\obj\Debug\net7.0\Converter.Dominio.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Dominio\obj\Debug\net7.0\refint\Converter.Dominio.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Dominio\obj\Debug\net7.0\Converter.Dominio.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Dominio\obj\Debug\net7.0\ref\Converter.Dominio.dll

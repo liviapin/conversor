@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Converter.IoC/1.0.0": {
+        "dependencies": {
+          "Converter.Aplicacao": "1.0.0",
+          "Converter.Infra": "1.0.0"
+        },
+        "runtime": {
+          "Converter.IoC.dll": {}
+        }
+      },
+      "Converter.Aplicacao/1.0.0": {
+        "dependencies": {
+          "Converter.DataTransfer": "1.0.0",
+          "Converter.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Converter.Aplicacao.dll": {}
+        }
+      },
+      "Converter.DataTransfer/1.0.0": {
+        "dependencies": {
+          "Converter.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Converter.DataTransfer.dll": {}
+        }
+      },
+      "Converter.Dominio/1.0.0": {
+        "runtime": {
+          "Converter.Dominio.dll": {}
+        }
+      },
+      "Converter.Infra/1.0.0": {
+        "dependencies": {
+          "Converter.DataTransfer": "1.0.0",
+          "Converter.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Converter.Infra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Converter.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Converter.Aplicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Converter.DataTransfer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Converter.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Converter.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

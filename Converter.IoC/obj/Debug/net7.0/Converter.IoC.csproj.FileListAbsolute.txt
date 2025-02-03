@@ -1,0 +1,42 @@
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\bin\Debug\net7.0\Converter.IoC.deps.json
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\bin\Debug\net7.0\Converter.IoC.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\bin\Debug\net7.0\Converter.IoC.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\bin\Debug\net7.0\Converter.Aplicacao.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\bin\Debug\net7.0\Converter.DataTransfer.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\bin\Debug\net7.0\Converter.Dominio.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\bin\Debug\net7.0\Converter.Infra.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\bin\Debug\net7.0\Converter.Aplicacao.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\bin\Debug\net7.0\Converter.Infra.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\bin\Debug\net7.0\Converter.DataTransfer.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\bin\Debug\net7.0\Converter.Dominio.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\obj\Debug\net7.0\Converter.IoC.csproj.AssemblyReference.cache
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\obj\Debug\net7.0\Converter.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\obj\Debug\net7.0\Converter.IoC.AssemblyInfoInputs.cache
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\obj\Debug\net7.0\Converter.IoC.AssemblyInfo.cs
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\obj\Debug\net7.0\Converter.IoC.csproj.CoreCompileInputs.cache
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\obj\Debug\net7.0\Converter.IoC.csproj.CopyComplete
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\obj\Debug\net7.0\Converter.IoC.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\obj\Debug\net7.0\refint\Converter.IoC.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\obj\Debug\net7.0\Converter.IoC.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.IoC\obj\Debug\net7.0\ref\Converter.IoC.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\bin\Debug\net7.0\Converter.IoC.deps.json
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\bin\Debug\net7.0\Converter.IoC.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\bin\Debug\net7.0\Converter.IoC.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\bin\Debug\net7.0\Converter.Aplicacao.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\bin\Debug\net7.0\Converter.DataTransfer.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\bin\Debug\net7.0\Converter.Dominio.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\bin\Debug\net7.0\Converter.Infra.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\bin\Debug\net7.0\Converter.Aplicacao.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\bin\Debug\net7.0\Converter.Infra.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\bin\Debug\net7.0\Converter.DataTransfer.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\bin\Debug\net7.0\Converter.Dominio.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\obj\Debug\net7.0\Converter.IoC.csproj.AssemblyReference.cache
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\obj\Debug\net7.0\Converter.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\obj\Debug\net7.0\Converter.IoC.AssemblyInfoInputs.cache
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\obj\Debug\net7.0\Converter.IoC.AssemblyInfo.cs
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\obj\Debug\net7.0\Converter.IoC.csproj.CoreCompileInputs.cache
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\obj\Debug\net7.0\Converter.IoC.csproj.CopyComplete
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\obj\Debug\net7.0\Converter.IoC.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\obj\Debug\net7.0\refint\Converter.IoC.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\obj\Debug\net7.0\Converter.IoC.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.IoC\obj\Debug\net7.0\ref\Converter.IoC.dll

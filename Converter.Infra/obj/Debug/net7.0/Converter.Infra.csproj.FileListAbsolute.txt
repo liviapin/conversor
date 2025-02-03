@@ -1,0 +1,34 @@
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Infra\bin\Debug\net7.0\Converter.Infra.deps.json
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Infra\bin\Debug\net7.0\Converter.Infra.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Infra\bin\Debug\net7.0\Converter.Infra.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Infra\bin\Debug\net7.0\Converter.DataTransfer.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Infra\bin\Debug\net7.0\Converter.Dominio.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Infra\bin\Debug\net7.0\Converter.Dominio.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Infra\bin\Debug\net7.0\Converter.DataTransfer.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Infra\obj\Debug\net7.0\Converter.Infra.csproj.AssemblyReference.cache
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Infra\obj\Debug\net7.0\Converter.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Infra\obj\Debug\net7.0\Converter.Infra.AssemblyInfoInputs.cache
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Infra\obj\Debug\net7.0\Converter.Infra.AssemblyInfo.cs
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Infra\obj\Debug\net7.0\Converter.Infra.csproj.CoreCompileInputs.cache
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Infra\obj\Debug\net7.0\Converter.Infra.csproj.CopyComplete
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Infra\obj\Debug\net7.0\Converter.Infra.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Infra\obj\Debug\net7.0\refint\Converter.Infra.dll
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Infra\obj\Debug\net7.0\Converter.Infra.pdb
+C:\Users\livia\OneDrive\Área de Trabalho\Conversor-quebrad\Converter.Infra\obj\Debug\net7.0\ref\Converter.Infra.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Infra\bin\Debug\net7.0\Converter.Infra.deps.json
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Infra\bin\Debug\net7.0\Converter.Infra.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Infra\bin\Debug\net7.0\Converter.Infra.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Infra\bin\Debug\net7.0\Converter.DataTransfer.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Infra\bin\Debug\net7.0\Converter.Dominio.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Infra\bin\Debug\net7.0\Converter.Dominio.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Infra\bin\Debug\net7.0\Converter.DataTransfer.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Infra\obj\Debug\net7.0\Converter.Infra.csproj.AssemblyReference.cache
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Infra\obj\Debug\net7.0\Converter.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Infra\obj\Debug\net7.0\Converter.Infra.AssemblyInfoInputs.cache
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Infra\obj\Debug\net7.0\Converter.Infra.AssemblyInfo.cs
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Infra\obj\Debug\net7.0\Converter.Infra.csproj.CoreCompileInputs.cache
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Infra\obj\Debug\net7.0\Converter.Infra.csproj.CopyComplete
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Infra\obj\Debug\net7.0\Converter.Infra.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Infra\obj\Debug\net7.0\refint\Converter.Infra.dll
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Infra\obj\Debug\net7.0\Converter.Infra.pdb
+C:\Users\livia\OneDrive\Documentos\Yardim\Backend\Conversor\Converter.Infra\obj\Debug\net7.0\ref\Converter.Infra.dll
